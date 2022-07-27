@@ -1,11 +1,11 @@
-##Unit 6 Homework: What's the Weather Like?
+# Unit 6 Homework: What's the Weather Like?
 
-##Background
+# Background
 Whether financial, political, or social—data's true power rests in its ability to answer questions definitively. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 Now, we know what you may be thinking: "Duh. It gets hotter ..."
 But, if pressed, how would you prove it?
 
-##Part 1: WeatherPy
+# Part 1: WeatherPy
 In this section, you'll create a Python script to visualize the weather of 500+ cities of varying distance from the equator. To do so, you'll use a simple Python library, the OpenWeatherMap API, and your problem-solving skills to create a representative model of weather across cities.
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
@@ -35,7 +35,7 @@ Include a print log of each city as it's being processed, with the city number a
 Save a CSV of all retrieved data and a PNG image for each scatter plot.
 
 
-##Part 2: VacationPy
+# Part 2: VacationPy
 Now, let's use your skills working with weather data to plan future vacations. Use Jupyter-gmaps and the Google Places API for this part of the assignment.
 
 
